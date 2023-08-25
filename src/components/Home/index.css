@@ -1,0 +1,137 @@
+.bg {
+  background-color: #091a27;
+}
+.image {
+  height: 50px;
+  width: 300px;
+  font-weight: 800;
+  margin-left: 15px;
+}
+.drop {
+  margin: 10px;
+  background-color: #3e3f40;
+  color: #fff;
+  width: 60px;
+  height: 20px;
+  border-width: 0px;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.drop1 {
+  color: #000;
+  background-color: #fff;
+}
+.but {
+  background-color: #3e3f40;
+  border-width: 0px;
+  font-size: 16px;
+  border-radius: 6px;
+  color: #fff;
+}
+.but1 {
+  background-color: #27c9c9;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
+}
+.but-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.switch {
+  background-color: transparent;
+  border-width: 0px;
+  color: #27c9c9;
+  cursor: pointer;
+  margin-right: 20px;
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.head {
+  color: #27c9c9;
+  font-size: 30px;
+}
+.p {
+  color: #9ca0a0;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 0px;
+}
+.head1 {
+  color: #fff;
+  font-size: 65px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0px;
+}
+.top1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.p1 {
+  color: #9ca0a0;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.crypt {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #9ca0a0;
+  font-size: 25px;
+  font-weight: 600;
+  margin: 20px;
+}
+.bg-yes {
+  background-color: #3e3f40;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.one {
+  color: #ffffff;
+  font-size: 20px;
+}
+.waz {
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+.wazirx {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.value {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.one1 {
+  color: red;
+  font-size: 20px;
+}
+.one2 {
+  color: #27c9c9;
+  font-size: 20px;
+}
